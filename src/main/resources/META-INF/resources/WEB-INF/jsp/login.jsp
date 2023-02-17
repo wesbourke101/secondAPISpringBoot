@@ -3,6 +3,8 @@
 		<title> This is a login page</title>
 	</head>
 	<body>
-		This is a login page
+		This is a login page ${name}!
+
+
 	</body>
 </html>
